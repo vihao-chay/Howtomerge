@@ -6,5 +6,6 @@ public class App {
         System.out.println("lagiaphat");
         System.out.println("do thanh loi");
         System.out.println("voquochao");
+        System.out.println("tino");
     }
 }
